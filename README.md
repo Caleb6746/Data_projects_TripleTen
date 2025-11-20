@@ -8,4 +8,4 @@ Projects I worked on while attending the BI Analysis TripleTen Bootcamp.
 | 3 | E-commerce Business Analytics | Took raw user data and turned it into business metrics, like CR and retenion rate. |
 | 4 | Saving SuperStore | Prepated visualizations in Tableau for profits and losses, whrere and when to advertise, and which items have abnormal return rates. | 
 | 5 | Returns for SuperStore | Identified the root causes of the returns for the SuperStore in Tableau and used dashboards and a story and presented it. |
-| 6 | Shopify App Analysis | Used Power BI to analyze the app landscape, the reviews and how the developers respond. |
+| 6 | Shopify App Analysis | Used Power BI to analyze the app landscape, the reviews and who the developers typically respond to. |
